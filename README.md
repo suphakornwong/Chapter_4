@@ -1,2 +1,2 @@
 # Chapter_4
-Code using Google Colab
+Code for Train AI task "Object Detection"
